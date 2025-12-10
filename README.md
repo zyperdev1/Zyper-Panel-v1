@@ -1,36 +1,17 @@
-# Zyper-Panel-v1
-There are Some Bugs in it so we are currently fixing it and you can report the bugs in the ZyperDevelopment server
+# 🚀 Zyper-Panel v1
 
-Copy the commands to install Zyper-Panel-v1
+⚠️ **Note:**  
+Zyper-Panel v1 is currently under development and may contain bugs.  
+We are actively fixing issues — please report bugs in the **ZyperDevelopment Discord server**.
 
-cloning the files
-```
+---
+
+## 📥 Installation
+
+Copy and run the following commands to install **Zyper-Panel v1**.
+
+---
+
+### 📂 Clone the Repository
+```bash
 git clone https://github.com/zyperdev1/Zyper-Panel-v1
-```
-Going to the Directory
-```
-cd ZyperPanel-v1
-```
-installing Node.js/npm deficencies
-```
-npm install
-```
-renaming example.env to .env
-```
-cp example.env .env
-```
-Bulding the panel
-```
-npm run migrate:dev && npm run build && npm run seed
-```
-
-start the panel
-
-```
-npm run start
-```
-
-<a href="https://discord.gg/hDb8mSHt8E">
-  <img src="(https://avatars.githubusercontent.com/u/195574965?v=4)" width="400">
-</a>
-
