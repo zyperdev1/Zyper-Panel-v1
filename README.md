@@ -30,3 +30,7 @@ start the panel
 npm run start
 ```
 [![Alt Text](https://avatars.githubusercontent.com/u/195574965?v=4)](https://discord.gg/hDb8mSHt8E)
+<a href="https://discord.gg/hDb8mSHt8E">
+  <img src="(https://avatars.githubusercontent.com/u/195574965?v=4)" width="400">
+</a>
+
